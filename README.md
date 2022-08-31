@@ -33,6 +33,6 @@ Hello sir, this acid console app is factorial if you say calculation factorial, 
 
 Melik Baykal - [@lilMellik](https://twitter.com/lilMellik) - melikbaykal06@gmail.com
 
-Project Link: [UpperCase LowerCase](https://github.com/Melik-B/UppercaseLowercase)
+Project Link: [Factorial](https://github.com/Melik-B/Factorial)
 
 <p align="right">-Melik Baykal</p>
