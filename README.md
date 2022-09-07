@@ -35,4 +35,4 @@ Melik Baykal - [@lilMellik](https://twitter.com/lilMellik) - melikbaykal06@gmail
 
 Project Link: [Factorial](https://github.com/Melik-B/Factorial)
 
-<p align="right">-Melik Baykal</p>
+<p align="right">-Melik Bayka</p>
